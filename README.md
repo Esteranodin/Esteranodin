@@ -1,15 +1,27 @@
-- 👋 Hi, I’m Marion 
-- 🎒 Actuellement en formation dev. web à G404
+# Hi there, I'm Esteranodin! 👋
 
-* ✨ Engagée
-* 👀 Hyper curieuse
-<!---
-Esteranodin/Esteranodin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Welcome to my GitHub profile! I'm a graphic designer currently training to become a web developer. Here's a little more about me:
 
-- 🌱 I’m currently learning ...
+## 🚀 About Me
+- 🎓 I'm currently studying for a web development diploma (bac +2) and will be taking my exams in July. I'm looking for an apprenticeship to pursue a bachelor's degree afterwards.
+- 🌱I already know how to use graphic design tools such as illustrator or indesign.
+- 💬 Feel free to ask me about web development, design, or anything else!
+- ⚡ Fun fact: I have a master's degree in medieval archaeology.
+- I'm 👀 hyper-curious
 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+- ## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/esteranodin)
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:esteranodin@example.com)
+
+## 🛠️ Technologies & Tools #for now
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: Tailwind, Symfony
+- **Tools & Platforms**: Git, GitHub, Adobe Suite, Figma
+
+- ## 🎮 Hobbies & Interests
+- 🧗‍♀️ Climbing
+- 🎮 Video games
+- 📚 Reading
+- 🧶 Knitting
+
+- Thank you for visiting my profile. Have a great day! 😊

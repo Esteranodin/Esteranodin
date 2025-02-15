@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a graphic designer currently training to becom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/esteranodin)
 [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:esteranodin@example.com)
 
-## 🛠️ Technologies & Tools #for now
+## 🛠️ Technologies & Tools # for now
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks & Libraries**: Tailwind, Symfony
 - **Tools & Platforms**: Git, GitHub, Adobe Suite, Figma

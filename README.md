@@ -9,19 +9,19 @@ Welcome to my GitHub profile! I'm a graphic designer currently training to becom
 - ⚡ Fun fact: I have a master's degree in medieval archaeology.
 - I'm 👀 hyper-curious
 
-- ## 📫 Connect with Me
+## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/esteranodin)
 [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:esteranodin@example.com)
 
-## 🛠️ Technologies & Tools // for now
+## 🛠️ Technologies & Tools // FOR NOW
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks & Libraries**: Tailwind, Symfony
 - **Tools & Platforms**: Git, GitHub, Adobe Suite, Figma
 
-- ## 🎮 Hobbies & Interests
+## 🎮 Hobbies & Interests
 - 🧗‍♀️ Climbing
 - 🎮 Video games
 - 📚 Reading
 - 🧶 Knitting
 
-- Thank you for visiting my profile. Have a great day! 😊
+Thank you for visiting my profile. Have a great day! 😊

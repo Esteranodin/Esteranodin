@@ -1,4 +1,4 @@
-# Hi there, I'm Esteranodin! 👋
+# Hi there, I'm Marion ! 👋
 
 Welcome to my GitHub profile! I'm a graphic designer currently training to become a web developer. Here's a little more about me:
 

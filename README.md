@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a graphic designer currently training to becom
 [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:esteranodin@example.com)
 
 ## 🛠️ Technologies & Tools // **FOR NOW...**
-- **Languages**: HTML, CSS, JavaScript, PHP, SQL
-- **Frameworks & Libraries**: Tailwind CSS, Symfony, MySQL, phpMyAdmin
-- **Tools & Platforms**: Git, GitHub, Adobe Suite, Figma, Diagramme E/A
+- **Languages**: HTML, CSS, JavaScript, PHP, SQL, Json, Markdown
+- **Frameworks & Libraries**: Tailwind CSS, Bootstrap, Twig, Symfony, Doctrine, React, Next.js, Astro
+- **Tools & Platforms**: Git, GitHub, Bitbucket, Adobe Suite, Figma, Canva, Diagramme E/A, MySQL, phpMyAdmin, Trello, Jira, Postman
 
 ## 🎮 Hobbies & Interests
 - 🧗‍♀️ Climbing

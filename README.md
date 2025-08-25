@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a graphic designer currently training to become a web developer. Here's a little more about me:
 
 ## 🚀 About Me
-- 🎓 I'm currently studying for a web development diploma (bac +2) and will be taking my exams in July. I'm looking for an apprenticeship to pursue a bachelor's degree afterwards.
+- 🎓 I recently completed my web development professional title (level 5 equivalent) and I'm now looking for opportunities to apply my skills in web development and digital design.
 - 🌱I already know how to use graphic design tools such as illustrator or indesign.
 - 💬 Feel free to ask me about web development, design, or anything else!
 - ⚡ Fun fact: I have a master's degree in medieval archaeology.

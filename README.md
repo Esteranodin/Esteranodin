@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a graphic designer currently training to becom
   
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/marsabat/)
-[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:esteranodin@example.com)
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:sabatier.marion@proton.me)
 
 ## 🛠️ Technologies & Tools // **FOR NOW...**
 - **Languages**: HTML, CSS, JavaScript, PHP, SQL, Json, Markdown

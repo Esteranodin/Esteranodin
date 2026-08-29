@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a graphic designer currently training to becom
 - 👀 I'm hyper-curious
   
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/marsabat/)
+<a href="https://www.linkedin.com/in/marsabat/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)</a>
 [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:sabatier.marion@proton.me)
 
 ## 🛠️ Technologies & Tools // **FOR NOW...**
-- **Languages**: HTML, CSS, JavaScript, PHP, SQL, Json, Markdown
+- **Languages**: HTML, CSS, JavaScript, PHP, SQL, Json, Markdown, Python
 - **Frameworks & Libraries**: Tailwind CSS, Bootstrap, Twig, Symfony, Doctrine, React, Next.js, Astro
 - **Tools & Platforms**: Git, GitHub, Bitbucket, Adobe Suite, Figma, Canva, Diagramme E/A, MySQL, phpMyAdmin, Trello, Jira, Postman
 

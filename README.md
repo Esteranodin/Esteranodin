@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a graphic designer currently training to becom
 
 ## 🛠️ Technologies & Tools // **FOR NOW...**
 - **Languages**: HTML, CSS, JavaScript, PHP, SQL, Json, Markdown, Python
-- **Frameworks & Libraries**: Tailwind CSS, Bootstrap, Twig, Symfony, Doctrine, React, Next.js, Astro
-- **Tools & Platforms**: Git, GitHub, Bitbucket, Adobe Suite, Figma, Canva, Diagramme E/A, MySQL, phpMyAdmin, Trello, Jira, Postman
+- **Frameworks & Libraries**: Tailwind CSS, Bootstrap, Twig, Symfony, Doctrine, React, Next.js, Astro, NumPy, Pandas, Matplotlib
+- **Tools & Platforms**: Git, GitHub, Bitbucket, Adobe Suite, Figma, Canva, Diagramme E/A, MySQL, phpMyAdmin, pgAdmin, Trello, Jira, Postman
 
 ## 🎮 Hobbies & Interests
 - 🧗‍♀️ Climbing
